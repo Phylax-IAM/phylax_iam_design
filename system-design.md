@@ -17,6 +17,12 @@
 These requirements describe the core behavior of the application.
 
 - ### 🛡️ Authentication
+    - Support for email/username/phone number + password authentication.
+    - Secure password hashing.
+    - Default and custom password policy enforcement.
+    - Account lockout after configurable failed login attempts.
+    - Last Failed or successful login data history.
+    - Optional CAPTCHA 
 
 - ### ✍🏽 Authorization
 
@@ -58,6 +64,7 @@ These requirements describe the core behavior of the application.
 Break down each major part (e.g., API Gateway, Auth Service, URL Service, Analytics Service):
 
 - [Aegis - API Gateway Service](./Services/Aegis%20-%20API%20Gateway%20Service/)
+- [Praeventus - API Firewall Service](./Services/Praeventus%20-%20API%20Firewall%20Service/)
 - [Clavis - OAuth Service](./Services/Clavis%20-%20OAuth%20Service/)
 - [Probatio - MFA Service](./Services/Probatio%20-%20MFA%20Service/)
 - [Signum - Token Service](./Services/Signum%20-%20Token%20Service/)
