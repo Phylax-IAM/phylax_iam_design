@@ -14,25 +14,7 @@
 
 ## 📝 Functional Requirements
 
-These requirements describe the core behavior of the application.
-
-- ### 🛡️ Authentication
-
-- ### ✍🏽 Authorization
-
-- ### 👶🏽 User Management
-
-- ### 🚦 Role and Permission Management
-
-- ### 👥 Group Management
-
-- ### 🪖 Security Features
-
-- ### 🏢 Multi-Tenancy
-
-- ### 📆 Scheduled Jobs
-
-- ### 🔔 Notifications
+- [Functional Requirements](./functional-requirements.md)
 
 ---
 
@@ -58,6 +40,7 @@ These requirements describe the core behavior of the application.
 Break down each major part (e.g., API Gateway, Auth Service, URL Service, Analytics Service):
 
 - [Aegis - API Gateway Service](./Services/Aegis%20-%20API%20Gateway%20Service/)
+- [Praeventus - API Firewall Service](./Services/Praeventus%20-%20API%20Firewall%20Service/)
 - [Clavis - OAuth Service](./Services/Clavis%20-%20OAuth%20Service/)
 - [Probatio - MFA Service](./Services/Probatio%20-%20MFA%20Service/)
 - [Signum - Token Service](./Services/Signum%20-%20Token%20Service/)
