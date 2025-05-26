@@ -35,12 +35,31 @@ These requirements describe the core behavior of the application.
     - Tenant configurable password history and expiry policy.
     - Link multiple identities (e.g., OAuth + user Data + MFA + SSO).
     - Custom redirect logic per request (accept just the relative path (append to tenant saved front end trusted domain) or complete URL (use Allowlist for containing trusted urls per tenant)).
+    - Support user's old password for password reset.
+    - Admin can send temporary password reset link with invite.
 
 - ### 👶🏽 User Management
-
-- ### ✍🏽 Authorization
+    - Support multiple and custom User registration/on-boarding based on config.
+    - Create, Read, Update and Delete user details.
+    - Store user profile data.
+    - Allow storing multiple social links with name and url per user.
+    - Support user activation/deactivation based on config.
+    - Support soft and hard delete.
+    - Store hashed user password.
+    - Store user password history based on config.
+    - Store user password reset channel and method preference.
+    - User can have 0 or more MFA registered based on config.
+    - Allow fetching a list of users.
+    - Allow pagination, sorting, filtering.
+    - Limit number of concurrent active tokens per user.
+    - Bulk user import(CSV, JSON, YAML, etc).
+    - Adding extra fields per user based on config.
+    - Auto create user on first time SSO/OAuth or registering through SSO/OAuth.
 
 - ### 👥 Group Management
+
+- ### ✍🏽 Authorization
+    - Temporarily restrict access based on config.
 
 - ### 🚦 Role, Permission & Policy Management
 
@@ -52,15 +71,18 @@ These requirements describe the core behavior of the application.
 
 - ### 🏢 Multi-Tenancy
     - Rate limit per tenant.
-    - Tenant custom rate limit base (IP, user, tenant, group, etc).
     - Dynamic client registration per tenant.
     - Tenant specific password policy support.
     - Support for custom OIDC/Oauth2 IdPs per tenant.
+    - Tenant custom rate limit base (IP, user, tenant, group, etc).
     - Each tenant must have isolated authentication configurations.
     - Support for both default and tenant-specific authentication policies.
     - Scoped authentication (users must authenticate within the correct tenant context).
     - Ability to onboard and configure authentication methods per tenant.
     - Ability to roll in and out new configure authentication methods per tenant using smooth transition flows (like allow users to be authenticated using the old or the new methods for a brief window days-weeks).
+    - Users must be completely isolated between tenants (data, roles, permissions).
+    - Allow custom fields, settings, password policies, and branching per tenant.
+    - All user operations must be scoped to their tenant ID.
 
 - ### 📆 Scheduled Jobs
 
