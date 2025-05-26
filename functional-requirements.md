@@ -36,13 +36,13 @@ These requirements describe the core behavior of the application.
     - Link multiple identities (e.g., OAuth + user Data + MFA + SSO).
     - Custom redirect logic per request (accept just the relative path (append to tenant saved front end trusted domain) or complete URL (use Allowlist for containing trusted urls per tenant)).
 
-- ### ✍🏽 Authorization
-
 - ### 👶🏽 User Management
 
-- ### 🚦 Role and Permission Management
+- ### ✍🏽 Authorization
 
 - ### 👥 Group Management
+
+- ### 🚦 Role, Permission & Policy Management
 
 - ### 🪖 Security Features
     - Detect and Block Bots.
