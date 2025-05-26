@@ -14,31 +14,7 @@
 
 ## 📝 Functional Requirements
 
-These requirements describe the core behavior of the application.
-
-- ### 🛡️ Authentication
-    - Support for email/username/phone number + password authentication.
-    - Secure password hashing.
-    - Default and custom password policy enforcement.
-    - Account lockout after configurable failed login attempts.
-    - Last Failed or successful login data history.
-    - Optional CAPTCHA 
-
-- ### ✍🏽 Authorization
-
-- ### 👶🏽 User Management
-
-- ### 🚦 Role and Permission Management
-
-- ### 👥 Group Management
-
-- ### 🪖 Security Features
-
-- ### 🏢 Multi-Tenancy
-
-- ### 📆 Scheduled Jobs
-
-- ### 🔔 Notifications
+- [Functional Requirements](./functional-requirements.md)
 
 ---
 
