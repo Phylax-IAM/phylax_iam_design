@@ -51,6 +51,7 @@ Break down each major part (e.g., API Gateway, Auth Service, URL Service, Analyt
 - [Kronos - Scheduled Jobs Service](./Services/Kronos%20-%20Scheduled%20Jobs%20Service/)
 - [Symphonos - API Composition Service](./Services/Symphonos%20-%20API%20Composition%20Service/)
 - [Hermes - Notification Service](./Services/Hermes%20-%20Notification%20Service/)
+- [Fidelis - Application Service](./Services/Fidelis%20-%20Application%20Service/)
 
 ---
 
