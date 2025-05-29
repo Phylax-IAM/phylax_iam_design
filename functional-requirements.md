@@ -60,5 +60,4 @@ These requirements describe the core behavior of the application.
 
 - ### 📜 Documentation
     - Documentation for every service (confluence).
-    - OpenAPI documentation for tenant developers(confluence/github/swagger).
-    - Link relevant documentation for every page(based on api relevant to it).
+    - OpenAPI documentation for endpoints (swagger).
