@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.2](https://github.com/Pragyanshu-rai/phylax_design/compare/v1.3.1...v1.3.2) (2025-05-29)
+
+
+### Bug Fixes
+
+* added changelog to the path ([32af1d4](https://github.com/Pragyanshu-rai/phylax_design/commit/32af1d4363105b4483defdc936a1deb45609fff6))
+
 ## [1.3.1](https://github.com/Pragyanshu-rai/phylax_design/compare/v1.3.0...v1.3.1) (2025-05-29)
 
 
