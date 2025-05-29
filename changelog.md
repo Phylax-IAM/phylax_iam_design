@@ -1,31 +1,9 @@
 # Changelog
 
-All notable changes to this project will be documented in this file.
+## [1.3.1](https://github.com/Pragyanshu-rai/phylax_design/compare/v1.3.0...v1.3.1) (2025-05-29)
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/)
-and this project adheres to [Semantic Versioning](https://semver.org/).
 
----
+### Bug Fixes
 
-## [1.3.0] - 2025-05-29
-### Added
-- Added `Praeventus - API Firewall Service` to the list of micro-services
-
-### Changed
-- Improved functional requirements document
-
-### Fixed
-- Brought down the requirements to a Minimum Viable Product level
-
----
-
-## [1.2.0] - 2025-05-26
-### Added
-- Added `Phylax IAM` logo to the readme file
-- Created `data-flow.design.png` and `system-context.design.png` diagrams for the application 
-
----
-
-## [1.0.0] - 2025-05-23
-### Added
-- Initial release: Phylax IAM Design
+* updated checkout step ([4648968](https://github.com/Pragyanshu-rai/phylax_design/commit/4648968465ac9f038344f0b63ce8d449a8409380))
+* updated GITHUB_TOKEN to RELEASE_TOKEN ([cf9e153](https://github.com/Pragyanshu-rai/phylax_design/commit/cf9e1536c282ef1a35fdd43b9d18ae969ac29b76))
