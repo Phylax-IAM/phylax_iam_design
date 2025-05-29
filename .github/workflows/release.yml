@@ -17,3 +17,5 @@ jobs:
         with:
           release-type: simple
           token: ${{ secrets.RELEASE_TOKEN }}
+          changelog-path: changelog.md
+          update-changelog: true 
