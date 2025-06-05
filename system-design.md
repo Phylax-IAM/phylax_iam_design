@@ -32,6 +32,7 @@
 ## 🏛️ High-Level Architecture
 
 - [System Context Design](./Diagrams/img/system-context.design.png)
+- [Data Flow Design](./Diagrams/img/data-flow.design.png)
 
 ---
 
