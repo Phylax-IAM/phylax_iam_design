@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/Pragyanshu-rai/phylax_design/compare/v1.3.2...v1.4.0) (2025-06-05)
+
+
+### Features
+
+* **Design:** added data flow diagram to the system-design ([cd259a5](https://github.com/Pragyanshu-rai/phylax_design/commit/cd259a5bca231f6ad319af611e81233ea430d0c4))
+
 ## [1.3.2](https://github.com/Pragyanshu-rai/phylax_design/compare/v1.3.1...v1.3.2) (2025-05-29)
 
 
