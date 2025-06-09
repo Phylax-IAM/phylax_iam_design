@@ -36,12 +36,6 @@
 
 ---
 
-## Cloud Service Provider Decision
-
-- 
-
----
-
 ## 🧇 Component Breakdown
 
 Break down each major part (e.g., API Gateway, Auth Service, URL Service, Analytics Service):
