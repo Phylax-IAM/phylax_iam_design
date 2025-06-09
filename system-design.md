@@ -65,19 +65,18 @@ Break down each major part (e.g., API Gateway, Auth Service, URL Service, Analyt
 
 ## 🚨 Security Considerations
 
-- Authentication (OAuth2, JWT, API keys, etc.)
-- Authorization model (RBAC, ABAC)
-- Rate limiting, abuse protection
-- Data encryption (at rest/in transit)
+- Applications hosted inside VPC
+- Authorization model (RBAC, ABAC) to be detailed in the documents for Ordinis.
+- Rate limiting, abuse protection to be detailed in Aegis and Praeventus.
+- HTTPS connection.
 
 ---
 
 ## 📦 Deployment & Infrastructure
 
-- CI/CD overview
-- Docker, Kubernetes setup
+- Kubernetes Cluster Deployment of the complete application
 - Horizontal/vertical scaling
-- Cloud provider setup (if any)
+- [CSP Decision Document](./cloud-service-provider-decision.md)
 
 ---
 
