@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.5.0](https://github.com/phylax-iam-root/phylax_design/compare/v1.4.0...v1.5.0) (2025-06-09)
+
+
+### Features
+
+* **CSP & Security:** Added CSP and Security documents ([5fcb02c](https://github.com/phylax-iam-root/phylax_design/commit/5fcb02c26a1d9db3ddd7b87a001e344039aaf084))
+* **Security:** Added Security diagram ([7cf0996](https://github.com/phylax-iam-root/phylax_design/commit/7cf0996d797687c012089a1f29a34b97c9096def))
+
+
+### Bug Fixes
+
+* **logo:** added a smaller logo ([5c02ff7](https://github.com/phylax-iam-root/phylax_design/commit/5c02ff7e1a59e3c1db50babc85fd2ca19c0ecf4d))
+* **Security:** fixed security diagram labeling ([4b3453d](https://github.com/phylax-iam-root/phylax_design/commit/4b3453d1d227b1805fa9d45deb85dd96ad8ea0e0))
+* **System Design:** fixed system design document ([3a1f002](https://github.com/phylax-iam-root/phylax_design/commit/3a1f0027275444f1f0276f0125b462e1794f2c31))
+
 ## [1.4.0](https://github.com/Pragyanshu-rai/phylax_design/compare/v1.3.2...v1.4.0) (2025-06-05)
 
 
