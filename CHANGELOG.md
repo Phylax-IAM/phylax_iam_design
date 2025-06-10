@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.0](https://github.com/phylax-iam-root/phylax_design/compare/v1.5.0...v1.6.0) (2025-06-10)
+
+
+### Features
+
+* **HLD:** Added HLD ([d13c1fa](https://github.com/phylax-iam-root/phylax_design/commit/d13c1fa7269a696b7d5e3562cdc298fac614cb61))
+
 ## [1.5.0](https://github.com/phylax-iam-root/phylax_design/compare/v1.4.0...v1.5.0) (2025-06-09)
 
 
