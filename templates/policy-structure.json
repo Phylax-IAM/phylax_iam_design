@@ -1,9 +1,0 @@
-{
-    "Version": "v1.0.0 (patch.minor.major)",
-    "Statement": [
-        {
-            "Effect": "'Allow' | 'Deny'",
-            "Action": "'Permission' | ['Permission1', 'Permission2', ...]"
-        }
-    ]
-}
