@@ -40,19 +40,19 @@
 
 Break down each major part (e.g., API Gateway, Auth Service, URL Service, Analytics Service):
 
-- [Aegis - API Gateway Service](./Services/Aegis%20-%20API%20Gateway%20Service/)
-- [Praeventus - API Firewall Service](./Services/Praeventus%20-%20API%20Firewall%20Service/)
-- [Clavis - OAuth Service](./Services/Clavis%20-%20OAuth%20Service/)
-- [Probatio - MFA Service](./Services/Probatio%20-%20MFA%20Service/)
-- [Signum - Token Service](./Services/Signum%20-%20Token%20Service/)
-- [Persona - User Service](./Services/Persona%20-%20User%20Service/)
-- [Cohortis - Group Service](./Services/Cohortis%20-%20Group%20Service/)
-- [Ordinis - RBAC Service](./Services/Ordinis%20-%20RBAC%20Service/)
-- [Patronus - Tenant Service](./Services/Patronus%20-%20Tenant%20Service/)
-- [Kronos - Scheduled Jobs Service](./Services/Kronos%20-%20Scheduled%20Jobs%20Service/)
-- [Symphonos - API Composition Service](./Services/Symphonos%20-%20API%20Composition%20Service/)
-- [Hermes - Notification Service](./Services/Hermes%20-%20Notification%20Service/)
-- [Fidelis - Application Service](./Services/Fidelis%20-%20Application%20Service/)
+- [Aegis - API Gateway Service](https://github.com/Phylax-IAM/Aegis.API-Gateway.Design)
+- [Praeventus - API Firewall Service]()
+- [Clavis - OAuth Service]()
+- [Probatio - MFA Service]()
+- [Signum - Token Service]()
+- [Persona - User Service]()
+- [Cohortis - Group Service]()
+- [Ordinis - RBAC Service]()
+- [Patronus - Tenant Service]()
+- [Kronos - Scheduled Jobs Service]()
+- [Symphonos - API Composition Service]()
+- [Hermes - Notification Service]()
+- [Fidelis - Application Service]()
 
 ---
 
